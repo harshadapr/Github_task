@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-noto-sans: "Noto Sans";
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-2xs: 11px;
+  --font-size-xs: 12px;
+  --font-size-smi: 13px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-4xs: 9px;
+  --font-size-xl: 20px;
+  --font-size-29xl: 48px;
+  --font-size-5xl: 24px;
+  --font-size-mini: 15px;
+  --font-size-41xl: 60px;
+  --font-size-27xl: 46px;
+  --font-size-26xl: 45px;
+  --font-size-44xl: 63px;
+  --font-size-43xl: 62px;
+  --font-size-13xl: 32px;
+  --font-size-61xl: 80px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-lightslategray: #7d8590;
+  --color-slategray: #6e7681;
+  --color-aliceblue-100: #e8f0fe;
+  --color-aliceblue-200: #e6edf3;
+  --color-aliceblue-300: rgba(240, 246, 252, 0.1);
+  --color-aliceblue-400: rgba(235, 245, 255, 0.2);
+  --color-aliceblue-500: rgba(235, 245, 255, 0.5);
+  --color-darkgray: #959da5;
+  --color-forestgreen: #199f4b;
+  --color-gray-100: #21262d;
+  --color-gray-200: #161b22;
+  --color-gray-300: #0d1117;
+  --color-gray-400: #040d21;
+  --color-gray-500: rgba(0, 0, 0, 0.4);
+  --color-gray-600: rgba(255, 255, 255, 0.75);
+  --color-cornflowerblue: #939aff;
+  --color-lightgray-100: #d0d7de;
+  --color-lightgray-200: #d1d5da;
+  --color-lightgray-300: #c9d1d9;
+  --color-darksalmon: #ffa28b;
+  --color-salmon: #ff7b72;
+  --color-lightgreen: #7ee787;
+  --color-lightskyblue-100: #a5d6ff;
+  --color-lightskyblue-200: #79c0ff;
+  --color-plum: #d2a8ff;
+  --color-whitesmoke: #f6f8fa;
+  --color-darkslategray-100: #424b5b;
+  --color-darkslategray-200: #30363d;
+  --color-darkslategray-300: rgba(46, 55, 74, 0.82);
+  --color-mediumslateblue: #6e40c9;
+  --color-violet: #dd7df7;
+  --color-dimgray: #57606a;
+  --color-royalblue: #0969da;
+
+  /* Border radiuses */
+  --br-7xs: 6px;
+  --br-281xl: 300px;
+  --br-xs: 12px;
+  --br-9980xl: 9999px;
+  --br-81xl: 100px;
+}

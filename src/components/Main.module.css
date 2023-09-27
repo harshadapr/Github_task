@@ -1,0 +1,20 @@
+.main,
+.rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.rectangle {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-gray-300);
+}
+
+.main {
+  padding-top: 100px;
+  width: 1856px;
+  height: 2663px;
+}

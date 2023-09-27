@@ -1,0 +1,18 @@
+.fourth,
+.rectangle {
+  position: absolute;
+  left: 0;
+}
+.rectangle {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-gray-300);
+}
+.fourth {
+  top: 7861px;
+  width: 1833px;
+  height: 2968px;
+}
