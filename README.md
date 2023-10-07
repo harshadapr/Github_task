@@ -5,7 +5,9 @@
   1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
   
   2)clone the repo
+  
   3) In the terminal, run `npm install`
+    
   4) Run `npm start` to view project in browser
 
   
