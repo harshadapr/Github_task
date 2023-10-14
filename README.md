@@ -10,4 +10,4 @@
     
   4) Run `npm start` to view project in browser
 
-  
+![First Image](Screenshot_2023-10-14_at_21-30-03_git.png)
